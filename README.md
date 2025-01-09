@@ -1,5 +1,26 @@
 # 5iveCoders
 
+# IMDB Data Analysis
+
+Question_1_your_name - What are the most common genres of movies released in the last decade?
+
+Question_2_your_name - Which directors have the highest average IMDb ratings across their films?
+
+Question_3_your_name - What is the trend of movie runtimes over the years (e.g., are movies getting longer or shorter)?
+
+Question_4_your_name - Which actors appear most frequently in high-rated movies (e.g., IMDb ratings > 8)?
+
+Question_5_your_name - How does budget correlate with IMDb rating (if additional budget data is added)?
+
+Question_6_your_name - Which countries produce the highest number of movies in specific genres (e.g., Action, Drama)?
+
+Question_7_your_name - What is the average IMDb rating of movies with a specific keyword in their plot (e.g., "alien")?
+
+Question_8_your_name - What is the distribution of MPAA ratings (e.g., PG, PG-13, R) across different genres?
+
+---
+# GitHub Workflow
+
 This guide outlines the workflow and conventions we follow to ensure smooth collaboration.
 
 ---

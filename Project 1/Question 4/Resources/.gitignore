@@ -5,3 +5,4 @@ links.csv
 movies_metadata.csv
 ratings_small.csv
 ratings.csv
+*.csv
